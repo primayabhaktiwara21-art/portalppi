@@ -1,0 +1,62 @@
+[12-Oct-2025 00:56:15 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/dokumen/atk-formulir.php on line 2
+[12-Oct-2025 00:56:15 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/dokumen/atk-formulir.php on line 2
+[12-Oct-2025 00:56:15 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/dokumen/atk-formulir.php on line 2
+[12-Oct-2025 06:57:42 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/dokumen/atk-formulir.php on line 2
+[12-Oct-2025 06:57:42 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/dokumen/atk-formulir.php on line 2
+[12-Oct-2025 06:57:42 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/dokumen/atk-formulir.php on line 2
+[12-Oct-2025 07:05:22 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/dokumen/atk-formulir.php on line 2
+[12-Oct-2025 07:05:22 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/dokumen/atk-formulir.php on line 2
+[12-Oct-2025 07:05:22 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/dokumen/atk-formulir.php on line 2
+[12-Oct-2025 07:07:37 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/dokumen/atk-formulir.php on line 2
+[12-Oct-2025 07:07:37 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/dokumen/atk-formulir.php on line 2
+[12-Oct-2025 07:07:37 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/dokumen/atk-formulir.php on line 2
+[13-Oct-2025 15:29:33 Asia/Jakarta] PHP Warning:  include(cek_akses.php): failed to open stream: No such file or directory in /home/porx9725/public_html/dokumen/atk-formulir.php on line 6
+[13-Oct-2025 15:29:33 Asia/Jakarta] PHP Warning:  include(cek_akses.php): failed to open stream: No such file or directory in /home/porx9725/public_html/dokumen/atk-formulir.php on line 6
+[13-Oct-2025 15:29:33 Asia/Jakarta] PHP Warning:  include(): Failed opening 'cek_akses.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/dokumen/atk-formulir.php on line 6
+[13-Oct-2025 15:47:45 Asia/Jakarta] PHP Warning:  include(cek_akses.php): failed to open stream: No such file or directory in /home/porx9725/public_html/dokumen/atk-formulir.php on line 6
+[13-Oct-2025 15:47:45 Asia/Jakarta] PHP Warning:  include(cek_akses.php): failed to open stream: No such file or directory in /home/porx9725/public_html/dokumen/atk-formulir.php on line 6
+[13-Oct-2025 15:47:45 Asia/Jakarta] PHP Warning:  include(): Failed opening 'cek_akses.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/dokumen/atk-formulir.php on line 6
+[19-Oct-2025 13:46:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/porx9725/public_html/dokumen/foto_video.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/porx9725/public_html/dokumen/foto_video.php on line 124
+[19-Oct-2025 13:47:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/porx9725/public_html/dokumen/foto_video.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/porx9725/public_html/dokumen/foto_video.php on line 124
+[19-Oct-2025 13:47:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/porx9725/public_html/dokumen/foto_video.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/porx9725/public_html/dokumen/foto_video.php on line 124
+[19-Oct-2025 13:47:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/porx9725/public_html/dokumen/foto_video.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/porx9725/public_html/dokumen/foto_video.php on line 124
+[19-Oct-2025 13:47:23 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/porx9725/public_html/dokumen/foto_video.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/porx9725/public_html/dokumen/foto_video.php on line 124
+[19-Oct-2025 13:50:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/porx9725/public_html/dokumen/foto_video.php:291
+Stack trace:
+#0 {main}
+  thrown in /home/porx9725/public_html/dokumen/foto_video.php on line 291
+[19-Oct-2025 13:50:29 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/porx9725/public_html/dokumen/foto_video.php:291
+Stack trace:
+#0 {main}
+  thrown in /home/porx9725/public_html/dokumen/foto_video.php on line 291
+[19-Oct-2025 13:50:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/porx9725/public_html/dokumen/foto_video.php:291
+Stack trace:
+#0 {main}
+  thrown in /home/porx9725/public_html/dokumen/foto_video.php on line 291
+[19-Oct-2025 13:50:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/porx9725/public_html/dokumen/foto_video.php:291
+Stack trace:
+#0 {main}
+  thrown in /home/porx9725/public_html/dokumen/foto_video.php on line 291
+[19-Oct-2025 13:50:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/porx9725/public_html/dokumen/foto_video.php:291
+Stack trace:
+#0 {main}
+  thrown in /home/porx9725/public_html/dokumen/foto_video.php on line 291
+[19-Oct-2025 13:50:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/porx9725/public_html/dokumen/foto_video.php:291
+Stack trace:
+#0 {main}
+  thrown in /home/porx9725/public_html/dokumen/foto_video.php on line 291

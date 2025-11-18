@@ -1,0 +1,12 @@
+[12-Oct-2025 00:55:00 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/surveilance/antibiotik.php on line 2
+[12-Oct-2025 00:55:00 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/surveilance/antibiotik.php on line 2
+[12-Oct-2025 00:55:00 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/surveilance/antibiotik.php on line 2
+[12-Oct-2025 06:45:20 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/surveilance/antibiotik.php on line 2
+[12-Oct-2025 06:45:20 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/surveilance/antibiotik.php on line 2
+[12-Oct-2025 06:45:20 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/surveilance/antibiotik.php on line 2
+[12-Oct-2025 06:46:12 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/surveilance/antibiotik.php on line 2
+[12-Oct-2025 06:46:12 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/surveilance/antibiotik.php on line 2
+[12-Oct-2025 06:46:12 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/surveilance/antibiotik.php on line 2
+[12-Oct-2025 07:04:39 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/surveilance/antibiotik.php on line 2
+[12-Oct-2025 07:04:39 Asia/Jakarta] PHP Warning:  include(koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/surveilance/antibiotik.php on line 2
+[12-Oct-2025 07:04:39 Asia/Jakarta] PHP Warning:  include(): Failed opening 'koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/surveilance/antibiotik.php on line 2

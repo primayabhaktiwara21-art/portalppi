@@ -1,0 +1,457 @@
+[04-Sep-2025 02:16:19 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/porx9725/public_html/index.php on line 50
+[04-Sep-2025 02:16:19 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/porx9725/public_html/index.php on line 63
+[04-Sep-2025 02:16:19 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/porx9725/public_html/index.php on line 76
+[04-Sep-2025 02:16:28 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/porx9725/public_html/index.php on line 50
+[04-Sep-2025 02:16:28 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/porx9725/public_html/index.php on line 63
+[04-Sep-2025 02:16:28 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/porx9725/public_html/index.php on line 76
+[11-Oct-2025 14:37:36 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/porx9725/public_html/config/koneksi.php on line 7
+[11-Oct-2025 14:38:41 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/porx9725/public_html/config/koneksi.php on line 7
+[11-Oct-2025 14:49:49 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/myppi/login.php on line 3
+[11-Oct-2025 14:49:49 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/myppi/login.php on line 3
+[11-Oct-2025 14:49:49 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/myppi/login.php on line 3
+[11-Oct-2025 14:52:40 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/porx9725/public_html/config/koneksi.php on line 7
+[11-Oct-2025 14:53:39 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/porx9725/public_html/config/koneksi.php on line 7
+[11-Oct-2025 14:53:47 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/porx9725/public_html/config/koneksi.php on line 7
+[11-Oct-2025 14:54:10 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/porx9725/public_html/config/koneksi.php on line 7
+[11-Oct-2025 15:12:01 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/porx9725/public_html/config/koneksi.php on line 7
+[11-Oct-2025 15:12:03 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/porx9725/public_html/config/koneksi.php on line 7
+[11-Oct-2025 15:12:04 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/porx9725/public_html/config/koneksi.php on line 7
+[11-Oct-2025 15:12:04 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/porx9725/public_html/config/koneksi.php on line 7
+[11-Oct-2025 15:12:04 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/porx9725/public_html/config/koneksi.php on line 7
+[11-Oct-2025 15:15:09 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/porx9725/public_html/login.php on line 14
+[11-Oct-2025 15:15:17 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/porx9725/public_html/login.php on line 14
+[11-Oct-2025 15:15:33 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/porx9725/public_html/login.php on line 14
+[11-Oct-2025 15:15:41 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/porx9725/public_html/login.php on line 14
+[11-Oct-2025 15:15:51 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/porx9725/public_html/login.php on line 14
+[11-Oct-2025 15:55:26 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/login.php on line 3
+[11-Oct-2025 15:55:26 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/login.php on line 3
+[11-Oct-2025 15:55:26 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/login.php on line 3
+[11-Oct-2025 15:55:33 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/login.php on line 3
+[11-Oct-2025 15:55:33 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/login.php on line 3
+[11-Oct-2025 15:55:33 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/login.php on line 3
+[11-Oct-2025 15:55:33 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/login.php on line 12
+[11-Oct-2025 15:55:33 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/login.php on line 14
+[11-Oct-2025 15:55:40 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/login.php on line 3
+[11-Oct-2025 15:55:40 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/login.php on line 3
+[11-Oct-2025 15:55:40 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/login.php on line 3
+[11-Oct-2025 15:55:40 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/login.php on line 12
+[11-Oct-2025 15:55:40 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/login.php on line 14
+[11-Oct-2025 15:55:53 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/login.php on line 3
+[11-Oct-2025 15:55:53 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/login.php on line 3
+[11-Oct-2025 15:55:53 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/login.php on line 3
+[11-Oct-2025 15:55:53 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/login.php on line 12
+[11-Oct-2025 15:55:53 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/login.php on line 14
+[11-Oct-2025 15:55:59 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/login.php on line 3
+[11-Oct-2025 15:55:59 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/login.php on line 3
+[11-Oct-2025 15:55:59 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/login.php on line 3
+[11-Oct-2025 15:55:59 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/login.php on line 12
+[11-Oct-2025 15:55:59 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/login.php on line 14
+[11-Oct-2025 17:40:27 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[11-Oct-2025 17:40:27 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[11-Oct-2025 17:40:27 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[11-Oct-2025 17:40:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[11-Oct-2025 17:40:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[11-Oct-2025 18:51:11 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/myppi/users.php on line 3
+[11-Oct-2025 18:51:11 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/myppi/users.php on line 3
+[11-Oct-2025 18:51:11 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/myppi/users.php on line 3
+[11-Oct-2025 18:51:11 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/myppi/users.php on line 334
+[11-Oct-2025 18:51:11 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/myppi/users.php on line 335
+[12-Oct-2025 00:12:38 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:12:38 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:12:38 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:12:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:12:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:12:43 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:12:43 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:12:43 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:12:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:12:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:12:43 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:12:43 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:12:43 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:12:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:12:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:12:49 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:12:49 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:12:49 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:12:49 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:12:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:14:01 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:14:01 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:14:01 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:14:01 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:14:01 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:26:34 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:26:34 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:26:34 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:26:34 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:26:34 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:26:52 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:26:52 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:26:52 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:26:52 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 33
+[12-Oct-2025 00:26:52 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:26:52 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:26:52 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:26:52 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:26:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:27:04 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:27:04 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:27:04 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:27:04 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 33
+[12-Oct-2025 00:27:04 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:27:04 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:27:04 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:27:04 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:27:04 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:27:20 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:27:20 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:27:20 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:27:20 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:27:20 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:27:53 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:27:53 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:27:53 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:27:53 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:27:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:28:03 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:28:03 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:28:03 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:28:03 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 33
+[12-Oct-2025 00:28:03 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:28:03 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:28:03 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:28:03 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:28:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:28:50 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:28:50 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:28:50 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:28:50 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:28:50 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:28:54 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:28:54 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:28:54 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:28:54 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:28:54 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:29:12 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:12 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:12 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:12 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:29:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:29:38 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:38 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:38 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:29:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:29:39 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:39 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:39 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:39 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:29:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:29:39 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:39 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:39 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:39 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:29:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:29:39 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:39 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:39 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:39 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:29:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:29:40 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:40 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:40 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:40 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:29:40 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:29:40 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:40 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:40 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:40 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:29:40 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:29:41 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:41 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:41 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:41 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:29:41 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:29:41 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:41 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:41 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:41 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:29:41 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:29:41 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:41 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:41 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:41 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:29:41 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:29:42 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:42 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:42 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:42 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:29:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:29:42 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:42 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:42 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:42 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:29:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:29:44 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:44 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:44 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:29:44 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:29:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:30:10 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:30:10 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:30:10 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:30:10 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:30:10 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:30:18 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:30:18 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:30:18 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:30:18 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:30:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:30:20 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:30:20 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:30:20 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:30:20 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:30:20 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:30:33 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:30:33 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:30:33 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:30:33 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:30:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:31:32 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:31:32 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:31:32 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:31:32 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:31:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:31:44 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:31:44 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:31:44 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:31:44 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:31:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:31:44 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:31:44 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:31:44 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:31:44 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:31:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:31:53 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:31:53 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:31:53 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:31:53 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:31:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:32:03 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:32:03 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:32:03 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:32:03 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:32:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:33:48 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:33:48 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:34:00 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:34:00 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:35:18 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:35:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:35:20 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:35:20 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:35:41 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 334
+[12-Oct-2025 00:35:41 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 335
+[12-Oct-2025 00:43:23 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:43:23 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:43:23 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:43:23 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 115
+[12-Oct-2025 00:43:23 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 116
+[12-Oct-2025 00:43:34 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:43:34 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:43:34 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:43:34 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 24
+[12-Oct-2025 00:43:34 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:43:34 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:43:34 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:43:34 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 115
+[12-Oct-2025 00:43:34 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 116
+[12-Oct-2025 00:43:42 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:43:42 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:43:42 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:43:42 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 115
+[12-Oct-2025 00:43:42 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 116
+[12-Oct-2025 00:43:49 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:43:49 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:43:49 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:43:49 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 115
+[12-Oct-2025 00:43:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 116
+[12-Oct-2025 00:44:14 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:44:14 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:44:14 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:44:14 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 115
+[12-Oct-2025 00:44:14 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 116
+[12-Oct-2025 00:44:23 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:44:23 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:44:23 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:44:23 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 115
+[12-Oct-2025 00:44:23 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 116
+[12-Oct-2025 00:47:01 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:47:01 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:47:01 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:47:01 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 115
+[12-Oct-2025 00:47:01 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 116
+[12-Oct-2025 00:47:40 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:47:40 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:47:40 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:47:40 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 24
+[12-Oct-2025 00:47:40 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:47:40 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:47:40 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:47:40 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 115
+[12-Oct-2025 00:47:40 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 116
+[12-Oct-2025 00:47:44 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:47:44 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:47:44 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 00:47:44 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 115
+[12-Oct-2025 00:47:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 116
+[12-Oct-2025 07:00:31 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 07:00:31 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 07:00:31 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 07:00:31 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 115
+[12-Oct-2025 07:00:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 116
+[12-Oct-2025 07:09:43 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 07:09:43 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 07:09:43 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 07:09:43 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 115
+[12-Oct-2025 07:09:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 116
+[12-Oct-2025 07:09:53 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 07:09:53 Asia/Jakarta] PHP Warning:  include(config/koneksi.php): failed to open stream: No such file or directory in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 07:09:53 Asia/Jakarta] PHP Warning:  include(): Failed opening 'config/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/porx9725/public_html/users.php on line 3
+[12-Oct-2025 07:09:53 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 115
+[12-Oct-2025 07:09:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 116
+[12-Oct-2025 08:11:17 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 115
+[12-Oct-2025 08:11:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 116
+[12-Oct-2025 14:03:23 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 116
+[12-Oct-2025 14:03:23 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 117
+[12-Oct-2025 15:09:52 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 116
+[12-Oct-2025 15:09:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 117
+[12-Oct-2025 15:10:08 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 116
+[12-Oct-2025 15:10:08 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 117
+[12-Oct-2025 15:10:24 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 25
+[12-Oct-2025 15:10:24 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 116
+[12-Oct-2025 15:10:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 117
+[12-Oct-2025 15:10:30 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 25
+[12-Oct-2025 15:10:31 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/users.php on line 116
+[12-Oct-2025 15:10:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 117
+[12-Oct-2025 20:06:18 Asia/Jakarta] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/login.php on line 11
+[12-Oct-2025 20:06:18 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 12
+[12-Oct-2025 20:06:18 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 13
+[12-Oct-2025 20:06:18 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 14
+[12-Oct-2025 20:06:18 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/login.php on line 16
+[12-Oct-2025 20:06:26 Asia/Jakarta] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/login.php on line 11
+[12-Oct-2025 20:06:26 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 12
+[12-Oct-2025 20:06:26 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 13
+[12-Oct-2025 20:06:26 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 14
+[12-Oct-2025 20:06:26 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/login.php on line 16
+[12-Oct-2025 20:06:32 Asia/Jakarta] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/login.php on line 11
+[12-Oct-2025 20:06:32 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 12
+[12-Oct-2025 20:06:32 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 13
+[12-Oct-2025 20:06:32 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 14
+[12-Oct-2025 20:06:32 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/login.php on line 16
+[12-Oct-2025 20:06:38 Asia/Jakarta] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/login.php on line 11
+[12-Oct-2025 20:06:38 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 12
+[12-Oct-2025 20:06:38 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 13
+[12-Oct-2025 20:06:38 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 14
+[12-Oct-2025 20:06:38 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/login.php on line 16
+[12-Oct-2025 20:06:39 Asia/Jakarta] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/login.php on line 11
+[12-Oct-2025 20:06:39 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 12
+[12-Oct-2025 20:06:39 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 13
+[12-Oct-2025 20:06:39 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 14
+[12-Oct-2025 20:06:39 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/login.php on line 16
+[12-Oct-2025 20:06:53 Asia/Jakarta] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/login.php on line 11
+[12-Oct-2025 20:06:53 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 12
+[12-Oct-2025 20:06:53 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 13
+[12-Oct-2025 20:06:53 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 14
+[12-Oct-2025 20:06:53 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/login.php on line 16
+[12-Oct-2025 20:07:00 Asia/Jakarta] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/login.php on line 11
+[12-Oct-2025 20:07:00 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 12
+[12-Oct-2025 20:07:00 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 13
+[12-Oct-2025 20:07:00 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 14
+[12-Oct-2025 20:07:00 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/login.php on line 16
+[12-Oct-2025 20:07:00 Asia/Jakarta] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/login.php on line 11
+[12-Oct-2025 20:07:00 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 12
+[12-Oct-2025 20:07:00 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 13
+[12-Oct-2025 20:07:00 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 14
+[12-Oct-2025 20:07:00 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/login.php on line 16
+[12-Oct-2025 20:07:01 Asia/Jakarta] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/login.php on line 11
+[12-Oct-2025 20:07:01 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 12
+[12-Oct-2025 20:07:01 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 13
+[12-Oct-2025 20:07:01 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 14
+[12-Oct-2025 20:07:01 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/login.php on line 16
+[12-Oct-2025 20:07:01 Asia/Jakarta] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/login.php on line 11
+[12-Oct-2025 20:07:01 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 12
+[12-Oct-2025 20:07:01 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 13
+[12-Oct-2025 20:07:01 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 14
+[12-Oct-2025 20:07:01 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/login.php on line 16
+[12-Oct-2025 20:07:01 Asia/Jakarta] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/login.php on line 11
+[12-Oct-2025 20:07:01 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 12
+[12-Oct-2025 20:07:01 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 13
+[12-Oct-2025 20:07:01 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 14
+[12-Oct-2025 20:07:01 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/login.php on line 16
+[12-Oct-2025 20:08:37 Asia/Jakarta] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/login.php on line 11
+[12-Oct-2025 20:08:37 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 12
+[12-Oct-2025 20:08:37 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 13
+[12-Oct-2025 20:08:37 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 14
+[12-Oct-2025 20:08:37 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/login.php on line 16
+[12-Oct-2025 20:08:43 Asia/Jakarta] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/login.php on line 11
+[12-Oct-2025 20:08:43 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 12
+[12-Oct-2025 20:08:43 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 13
+[12-Oct-2025 20:08:43 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 14
+[12-Oct-2025 20:08:43 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/login.php on line 16
+[12-Oct-2025 20:08:54 Asia/Jakarta] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/porx9725/public_html/login.php on line 11
+[12-Oct-2025 20:08:54 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 12
+[12-Oct-2025 20:08:54 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 13
+[12-Oct-2025 20:08:54 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/porx9725/public_html/login.php on line 14
+[12-Oct-2025 20:08:54 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/login.php on line 16
+[12-Oct-2025 22:34:48 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:34:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:34:51 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:34:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:35:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:35:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:36:02 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:36:40 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:36:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:41:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:41:54 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:41:54 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:41:54 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:41:54 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:41:54 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:41:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:41:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:41:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:41:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:41:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:41:55 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:41:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:41:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:41:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:41:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:41:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:41:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:41:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:42:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:42:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:43:10 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[12-Oct-2025 22:43:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/users.php on line 189
+[02-Nov-2025 21:10:21 Asia/Jakarta] PHP Warning:  include_once(../header.php): Failed to open stream: No such file or directory in /home/porx9725/public_html/dashboard.php on line 1
+[02-Nov-2025 21:10:21 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/porx9725/public_html/dashboard.php on line 1
+[02-Nov-2025 21:10:21 Asia/Jakarta] PHP Warning:  include_once(../sidebar.php): Failed to open stream: No such file or directory in /home/porx9725/public_html/dashboard.php on line 2
+[02-Nov-2025 21:10:21 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/porx9725/public_html/dashboard.php on line 2
+[02-Nov-2025 21:10:21 Asia/Jakarta] PHP Warning:  include_once(../footer.php): Failed to open stream: No such file or directory in /home/porx9725/public_html/dashboard.php on line 57
+[02-Nov-2025 21:10:21 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../footer.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/porx9725/public_html/dashboard.php on line 57
+[02-Nov-2025 21:13:34 Asia/Jakarta] PHP Warning:  include_once(../header.php): Failed to open stream: No such file or directory in /home/porx9725/public_html/dashboard.php on line 1
+[02-Nov-2025 21:13:34 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/porx9725/public_html/dashboard.php on line 1
+[02-Nov-2025 21:13:34 Asia/Jakarta] PHP Warning:  include_once(../sidebar.php): Failed to open stream: No such file or directory in /home/porx9725/public_html/dashboard.php on line 2
+[02-Nov-2025 21:13:34 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/porx9725/public_html/dashboard.php on line 2
+[02-Nov-2025 21:13:34 Asia/Jakarta] PHP Warning:  include_once(../footer.php): Failed to open stream: No such file or directory in /home/porx9725/public_html/dashboard.php on line 57
+[02-Nov-2025 21:13:34 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../footer.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/porx9725/public_html/dashboard.php on line 57
+[02-Nov-2025 21:14:25 Asia/Jakarta] PHP Warning:  include_once(../header.php): Failed to open stream: No such file or directory in /home/porx9725/public_html/dashboard.php on line 1
+[02-Nov-2025 21:14:25 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../header.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/porx9725/public_html/dashboard.php on line 1
+[02-Nov-2025 21:14:25 Asia/Jakarta] PHP Warning:  include_once(../sidebar.php): Failed to open stream: No such file or directory in /home/porx9725/public_html/dashboard.php on line 2
+[02-Nov-2025 21:14:25 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../sidebar.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/porx9725/public_html/dashboard.php on line 2
+[02-Nov-2025 21:14:25 Asia/Jakarta] PHP Warning:  include_once(../footer.php): Failed to open stream: No such file or directory in /home/porx9725/public_html/dashboard.php on line 57
+[02-Nov-2025 21:14:25 Asia/Jakarta] PHP Warning:  include_once(): Failed opening '../footer.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/porx9725/public_html/dashboard.php on line 57

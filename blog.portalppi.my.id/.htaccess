@@ -1,0 +1,22 @@
+# Aktifkan URL rewriting
+RewriteEngine On
+
+# Jika situs kamu langsung di domain blog.portalppi.my.id tanpa subfolder
+RewriteBase /
+
+# Pastikan file dan folder asli tetap bisa diakses
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Ubah URL cantik /post/slug -> post.php?slug=slug
+RewriteRule ^post/([^/]+)/?$ post.php?slug=$1 [L,QSA]
+
+# ==========================
+# TAMBAHAN UNTUK KATEGORI
+# ==========================
+# Ubah URL cantik /kategori/Nama -> post/kategori.php?k=Nama
+RewriteRule ^kategori/([^/]+)/?$ post/kategori.php?k=$1 [L,QSA]
+
+# Redirect lama: /post/kategori.php?k=NamaKategori -> /kategori/NamaKategori
+RewriteCond %{THE_REQUEST} \s/post/kategori\.php\?k=([^&\s]+) [NC]
+RewriteRule ^post/kategori\.php$ /kategori/%1? [R=301,L]

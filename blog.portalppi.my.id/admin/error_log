@@ -1,0 +1,74 @@
+[15-Oct-2025 00:06:59 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/edit.php on line 6
+[15-Oct-2025 00:06:59 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/edit.php on line 7
+[15-Oct-2025 00:06:59 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/edit.php on line 8
+[15-Oct-2025 00:06:59 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/blog.portalppi.my.id/admin/edit.php on line 10
+[15-Oct-2025 00:08:22 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/login.php on line 10
+[15-Oct-2025 00:08:22 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/login.php on line 11
+[15-Oct-2025 00:08:22 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/login.php on line 12
+[15-Oct-2025 00:08:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/blog.portalppi.my.id/admin/login.php on line 13
+[15-Oct-2025 00:08:36 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/login.php on line 10
+[15-Oct-2025 00:08:36 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/login.php on line 11
+[15-Oct-2025 00:08:36 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/login.php on line 12
+[15-Oct-2025 00:08:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/blog.portalppi.my.id/admin/login.php on line 13
+[15-Oct-2025 00:17:11 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/login.php on line 10
+[15-Oct-2025 00:17:11 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/login.php on line 11
+[15-Oct-2025 00:17:11 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/login.php on line 12
+[15-Oct-2025 00:17:11 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/blog.portalppi.my.id/admin/login.php on line 13
+[15-Oct-2025 00:29:55 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'porx9725_smarttekno'@'localhost' (using password: YES) in /home/porx9725/public_html/blog.portalppi.my.id/koneksi.php on line 7
+[15-Oct-2025 00:30:01 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'porx9725_smarttekno'@'localhost' (using password: YES) in /home/porx9725/public_html/blog.portalppi.my.id/koneksi.php on line 7
+[15-Oct-2025 00:30:08 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'porx9725_smarttekno'@'localhost' (using password: YES) in /home/porx9725/public_html/blog.portalppi.my.id/koneksi.php on line 7
+[15-Oct-2025 00:32:40 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'porx9725_smarttekno'@'localhost' (using password: YES) in /home/porx9725/public_html/blog.portalppi.my.id/koneksi.php on line 7
+[15-Oct-2025 00:47:01 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'porx9725_smarttekno'@'localhost' (using password: YES) in /home/porx9725/public_html/blog.portalppi.my.id/koneksi.php on line 7
+[15-Oct-2025 00:47:09 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'porx9725_smarttekno'@'localhost' (using password: YES) in /home/porx9725/public_html/blog.portalppi.my.id/koneksi.php on line 7
+[15-Oct-2025 01:02:15 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/dashboard.php on line 32
+[15-Oct-2025 01:02:15 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/dashboard.php on line 32
+[15-Oct-2025 01:07:20 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/edit.php on line 6
+[15-Oct-2025 01:07:20 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/edit.php on line 7
+[15-Oct-2025 01:07:20 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/edit.php on line 8
+[15-Oct-2025 01:07:20 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/blog.portalppi.my.id/admin/edit.php on line 10
+[15-Oct-2025 01:08:33 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/edit.php on line 6
+[15-Oct-2025 01:08:33 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/edit.php on line 7
+[15-Oct-2025 01:08:33 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/edit.php on line 8
+[15-Oct-2025 01:08:33 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/blog.portalppi.my.id/admin/edit.php on line 10
+[15-Oct-2025 01:09:00 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/dashboard.php on line 32
+[15-Oct-2025 01:09:31 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/edit.php on line 6
+[15-Oct-2025 01:09:31 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/edit.php on line 7
+[15-Oct-2025 01:09:31 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/edit.php on line 8
+[15-Oct-2025 01:09:31 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/blog.portalppi.my.id/admin/edit.php on line 10
+[15-Oct-2025 01:09:34 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/edit.php on line 6
+[15-Oct-2025 01:09:34 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/edit.php on line 7
+[15-Oct-2025 01:09:34 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/edit.php on line 8
+[15-Oct-2025 01:09:34 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/porx9725/public_html/blog.portalppi.my.id/admin/edit.php on line 10
+[15-Oct-2025 01:13:51 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/dashboard.php on line 32
+[15-Oct-2025 01:14:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/dashboard.php on line 32
+[15-Oct-2025 01:20:43 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/simpan.php on line 27
+[15-Oct-2025 01:20:43 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/simpan.php on line 29
+[15-Oct-2025 01:25:59 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/simpan.php on line 27
+[15-Oct-2025 01:25:59 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/simpan.php on line 29
+[15-Oct-2025 01:26:25 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/simpan.php on line 27
+[15-Oct-2025 01:26:25 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/simpan.php on line 29
+[15-Oct-2025 01:26:45 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/simpan.php on line 27
+[15-Oct-2025 01:26:45 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/simpan.php on line 29
+[15-Oct-2025 01:35:31 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/simpan.php on line 27
+[15-Oct-2025 01:35:31 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/simpan.php on line 29
+[15-Oct-2025 08:10:51 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/simpan.php on line 27
+[15-Oct-2025 08:10:51 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/simpan.php on line 29
+[15-Oct-2025 11:27:29 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/update.php on line 40
+[15-Oct-2025 11:27:29 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/update.php on line 42
+[15-Oct-2025 11:28:00 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/update.php on line 40
+[15-Oct-2025 11:28:00 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/update.php on line 42
+[15-Oct-2025 22:10:38 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/update.php on line 40
+[15-Oct-2025 22:10:38 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/update.php on line 42
+[15-Oct-2025 22:10:54 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/update.php on line 40
+[15-Oct-2025 22:10:54 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/update.php on line 42
+[15-Oct-2025 22:11:45 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/update.php on line 40
+[15-Oct-2025 22:11:45 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, bool given in /home/porx9725/public_html/blog.portalppi.my.id/admin/update.php on line 42
+[29-Oct-2025 13:16:44 Asia/Jakarta] PHP Warning:  Undefined variable $row in /home/porx9725/public_html/blog.portalppi.my.id/admin/login.php on line 14
+[29-Oct-2025 13:16:44 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/porx9725/public_html/blog.portalppi.my.id/admin/login.php on line 14
+[29-Oct-2025 13:16:44 Asia/Jakarta] PHP Warning:  Undefined variable $password in /home/porx9725/public_html/blog.portalppi.my.id/admin/login.php on line 14
+[03-Nov-2025 15:21:54 Asia/Jakarta] PHP Warning:  Undefined variable $row in /home/porx9725/public_html/blog.portalppi.my.id/admin/login.php on line 14
+[03-Nov-2025 15:21:54 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/porx9725/public_html/blog.portalppi.my.id/admin/login.php on line 14
+[03-Nov-2025 15:21:54 Asia/Jakarta] PHP Warning:  Undefined variable $password in /home/porx9725/public_html/blog.portalppi.my.id/admin/login.php on line 14
+[15-Nov-2025 08:31:33 Asia/Jakarta] PHP Warning:  Undefined variable $row in /home/porx9725/public_html/blog.portalppi.my.id/admin/login.php on line 14
+[15-Nov-2025 08:31:33 Asia/Jakarta] PHP Warning:  Trying to access array offset on value of type null in /home/porx9725/public_html/blog.portalppi.my.id/admin/login.php on line 14
+[15-Nov-2025 08:31:33 Asia/Jakarta] PHP Warning:  Undefined variable $password in /home/porx9725/public_html/blog.portalppi.my.id/admin/login.php on line 14

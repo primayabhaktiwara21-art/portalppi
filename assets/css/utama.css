@@ -1,0 +1,156 @@
+:root {
+  --brand:#006cb7;
+  --brand-dark:#005599;
+  --bg:#f6f8fc;
+  --card:#ffffff;
+  --line:#e5e9f0;
+  --ink:#0f172a;
+  --muted:#607085;
+  --radius:14px;
+  --shadow:0 6px 16px rgba(0,0,0,.06);
+  --transition:all .25s ease;
+}
+
+* { box-sizing:border-box; margin:0; padding:0 }
+body {
+  font-family:"Segoe UI",Roboto,Arial,sans-serif;
+  background:var(--bg);
+  color:var(--ink);
+  overflow-x:hidden;
+  min-height:100vh;
+  line-height:1.6;
+}
+a { text-decoration:none; color:inherit; transition:var(--transition) }
+
+/* === Layout Utama === */
+.layout {
+  display:grid;
+  grid-template-columns:260px 1fr;
+  min-height:100vh;
+  transition:var(--transition);
+}
+
+/* === Sidebar === */
+.sidebar {
+  background:linear-gradient(180deg,var(--brand) 0%,var(--brand-dark) 100%);
+  color:#fff;
+  display:flex;
+  flex-direction:column;
+  z-index:1000;
+  position:sticky;
+  top:0;
+  box-shadow:4px 0 14px rgba(0,0,0,.08);
+}
+.brand {
+  display:flex; align-items:center; gap:.6rem;
+  padding:18px;
+  border-bottom:1px solid rgba(255,255,255,.15);
+}
+.brand .dot {
+  width:12px; height:12px; border-radius:50%;
+  background:#fff; box-shadow:0 0 0 6px rgba(255,255,255,.2);
+}
+.brand .name {
+  font-weight:800; text-transform:uppercase;
+  font-size:1.1rem; letter-spacing:.3px;
+}
+.nav {
+  padding:14px 10px; overflow-y:auto; flex:1;
+}
+.nav .section {
+  margin:14px 8px 10px; color:#d9ebff;
+  font-size:.78rem; text-transform:uppercase;
+  letter-spacing:.06em; font-weight:600;
+}
+.root-link {
+  display:flex; align-items:center; gap:10px;
+  padding:10px 12px; border-radius:var(--radius);
+  color:#eaf6ff;
+}
+.root-link:hover { background:rgba(255,255,255,.12) }
+.root-link.active {
+  background:#fff; color:var(--brand); font-weight:700;
+}
+
+/* === Dropdown Sidebar === */
+details { margin:6px 0; border-radius:var(--radius); overflow:hidden; transition:var(--transition) }
+details summary {
+  cursor:pointer; padding:10px 12px; font-weight:600;
+  display:flex; align-items:center; justify-content:space-between;
+  color:#fff;
+}
+details summary .chev { font-size:.8rem; transition:transform .25s ease }
+details[open] summary .chev { transform:rotate(90deg) }
+details ul { list-style:none; padding:0; margin:0 }
+
+/* Warna kategori sidebar */
+details[data-type="reg"] ul{background:#eaf3ff;color:#003d73}
+details[data-type="komite"] ul{background:#e9fdf0;color:#064e3b}
+details[data-type="surv"] ul{background:#f3e8ff;color:#4a148c}
+details[data-type="audit"] ul{background:#fff3e0;color:#7a3d00}
+details[data-type="diklat"] ul{background:#f4e9ff;color:#42206a}
+details[data-type="doc"] ul{background:#eef6fb;color:#0a3d62}
+details[data-type="lap"] ul{background:#fff0f0;color:#7f1d1d}
+
+details li a {
+  display:block; padding:8px 16px; border-left:4px solid transparent; font-size:.92rem;
+}
+details li a:hover {
+  background:rgba(255,255,255,.2); border-left:4px solid currentColor;
+}
+details li a.active {
+  background:#fff; color:var(--brand); border-left:4px solid var(--brand); font-weight:700;
+}
+
+/* === Profile Sidebar === */
+.profile {
+  padding:16px; border-top:1px solid rgba(255,255,255,.18);
+  display:flex; align-items:center; gap:10px;
+  background:rgba(255,255,255,.05);
+}
+.avatar {
+  width:38px; height:38px; border-radius:50%;
+  background:#fff; color:var(--brand);
+  font-weight:700; display:grid; place-items:center;
+}
+
+/* === Header / Topbar === */
+.topbar {
+  position: sticky;
+  top: 0;
+  backdrop-filter: blur(12px);
+  background: rgba(255,255,255,0.7);
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 14px 20px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  font-weight: 600;
+}
+.topbar .periode {
+  background: rgba(0,108,183,0.1);
+  color: #006cb7;
+  padding: 6px 12px;
+  border-radius: 50px;
+  font-size: 0.9rem;
+}
+
+.hamb {
+  display:none;
+  background:#fff;
+  border:1px solid var(--line);
+  border-radius:10px;
+  padding:8px;
+  cursor:pointer;
+  font-size:1.2rem;
+}
+
+/* === Responsive Layout === */
+@media(max-width:1024px){
+  .layout{grid-template-columns:1fr}
+  .sidebar{position:fixed;left:-270px;width:260px;height:100%;transition:left .3s ease}
+  .sidebar.open{left:0}
+  .hamb{display:inline-flex}
+}
+@media(max-width:600px){
+  .topbar{flex-wrap:wrap;gap:10px}
+}

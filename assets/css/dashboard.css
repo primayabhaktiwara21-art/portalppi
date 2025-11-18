@@ -1,0 +1,66 @@
+main { overflow:hidden }
+
+.container {
+  max-width:1200px;
+  margin:0 auto;
+  padding:20px;
+}
+
+.grid {
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+  gap:14px;
+}
+
+/* === Card === */
+.card {
+  background:var(--card);
+  border:1px solid var(--line);
+  border-radius:var(--radius);
+  box-shadow:var(--shadow);
+  padding:16px;
+  transition:var(--transition);
+}
+.card:hover {
+  transform:translateY(-2px);
+  box-shadow:0 8px 20px rgba(0,0,0,.08);
+}
+
+/* === KPI === */
+.kpi {
+  display:flex;
+  align-items:center;
+  gap:12px;
+}
+.kpi .icon {
+  width:50px; height:50px; border-radius:14px;
+  display:grid; place-items:center; font-size:1.5rem;
+}
+.kpi .meta .label { color:var(--muted); font-size:.9rem }
+.kpi .meta .val { font-weight:800; font-size:1.4rem; margin-top:2px }
+
+/* === Table === */
+table {
+  width:100%;
+  border-collapse:collapse;
+  font-size:.95rem;
+  border-radius:var(--radius);
+  overflow:hidden;
+}
+th, td {
+  padding:10px;
+  border-bottom:1px solid var(--line);
+  text-align:left;
+}
+th {
+  background:#f1f5fb;
+  color:#00497a;
+  font-weight:700;
+}
+tr:hover td { background:#f9fbff }
+
+/* === Responsive Content === */
+@media(max-width:600px){
+  .container{padding:14px}
+  h2{font-size:1.2rem}
+}
