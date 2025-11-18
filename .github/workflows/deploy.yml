@@ -1,0 +1,28 @@
+name: Deploy to Rumahweb Hosting
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@v0.1.10
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          port: 22
+          script: |
+            cd public_html
+            rm -rf *
+            git clone git@github.com:primayabhaktiwara21-art/portalppi.git tmpfolder
+            mv tmpfolder/* .
+            rm -rf tmpfolder
